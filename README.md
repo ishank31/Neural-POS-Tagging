@@ -1,9 +1,5 @@
 # INLP-Assignment 2 : Neural POS Tagging
 
-## Name: Ishan Kavathekar
-
-## Roll no: 2022121003
-
 ### Files included:
 
 - Dataset files: These files were used while training and testing the models.
